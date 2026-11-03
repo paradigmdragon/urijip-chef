@@ -1,0 +1,20 @@
+{
+  "source_site_id": "appgprj_6ad7e8bd459481918c7f3c1301afb0c1",
+  "source_version": 1,
+  "source_commit": "1cf0d9b9cf6a653e3d2ff223877e50463c25a843",
+  "import_date": "2026-11-03",
+  "files": {
+    "web/index.html": {
+      "original_path": "dist/index.html",
+      "sha256": "e1eb65fe2c3699a647e2a268b477ae7168f5e316de026798d5260c80175acb97"
+    },
+    "web/style.css": {
+      "original_path": "dist/style.css",
+      "sha256": "125c4e2d069ea9da056bc6d9ea0fc79379002e28b0a0dea0405274e5b878e92d"
+    },
+    "web/app.js": {
+      "original_path": "dist/app.js",
+      "sha256": "b3bf64140002fc38609c32257b64609e82952be28e074ee5038b0e086a9455f2"
+    }
+  }
+}

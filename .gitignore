@@ -1,0 +1,19 @@
+# Secrets and local runtime
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+.sites-runtime/
+.openai/hosting.json
+node_modules/
+__pycache__/
+.DS_Store
+*.log
+# Personal records and generated uploads are never source
+private/
+data/
+uploads/
+backups/
