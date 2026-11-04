@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX `chef_operation_owner` ON `chef_events` (`owner`,`operation_id`);
